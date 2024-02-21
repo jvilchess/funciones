@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body
+{
+    height: auto;
+    background-image: url(../image/galactic-night-sky-astronomy-science-combined-generative-ai.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header1
+{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0,0, 0, 0.7);
+    color: white;
+}
+
+
+.section1
+{
+    text-align: center;
+    background-color: rgba(0,0, 0, 0.7);
+    color: white;
+}
+
+#colores{
+    text-align: center;
+    background-color: rgba(0,0, 0, 0.7);
+    color: white;
+}
+
+#container{
+    display: flex;
+    gap: 25px;
+    background-color: rgba(255,255, 255, 0.7);
+    padding: 10px;
+    justify-content: center;
+}
+#card1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#card2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#card3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#card4{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+#key{
+    border: solid 5px black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
